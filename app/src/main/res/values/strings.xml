@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">myApp3</string>
+
+    <string-array name="language">
+        <item>Name</item>
+        <item>Year</item>
+        <item>genere</item>
+
+    </string-array>
+
+</resources>
